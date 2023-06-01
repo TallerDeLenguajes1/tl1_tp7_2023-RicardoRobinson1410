@@ -1,0 +1,1 @@
+El comando output hace referencia a especifica la ubicación de salida del proyecto. El "." representa el directorio actual, por lo que el proyecto se creará en el directorio actual donde se ejecuta el comando.
